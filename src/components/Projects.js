@@ -28,9 +28,9 @@ function Projects() {
           <a href="https://josiahr4321.github.io/Password-Generator-SEO/">
             <img src="https://user-images.githubusercontent.com/125624166/233524831-ab08a64a-e59d-4607-9687-24f975d25435.png" alt="Dungeons-Character-Creator" />
           </a>
-          <li>Work-Day-Scheduler-SEO</li>
-          <a href="https://josiahr4321.github.io/Work-Day-Scheduler-SEO/">
-            <img src="https://user-images.githubusercontent.com/125624166/236369888-1f0e1888-52e5-460a-8eaa-d730cef6ec67.png" alt="Dungeons-Character-Creator" />
+          <li>ShelfSwap</li>
+          <a href="https://shelf-swap-425acc537cee.herokuapp.com">
+            <img src="https://user-images.githubusercontent.com/128410226/268769353-77ffbad2-3ddf-4a41-b2a0-48e2435faead.png" alt="Dungeons-Character-Creator" />
           </a>
         </ul>
       </div>
